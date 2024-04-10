@@ -1,0 +1,18 @@
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\Telemarketing\obj\Debug\Telemarketing.pdb

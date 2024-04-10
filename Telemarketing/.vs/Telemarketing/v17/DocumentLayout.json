@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|c:\\users\\pc\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410t235203z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\telemarketing\\bll\\employeemonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\employeemonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\donationsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\donationsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\conversationsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\conversationsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\employeemonitoringdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\employeemonitoringdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\projectsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\projectsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\telemarketing\\bll\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeMonitoring.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeeMonitoring.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\EmployeeMonitoring.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeeMonitoring.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\EmployeeMonitoring.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Employee.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Employee.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Donor.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Donor.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Donor.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Donor.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonationsDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\DonationsDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\DonationsDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\DonationsDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\DonationsDB.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowD4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversationsDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\ConversationsDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\ConversationsDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\ConversationsDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\ConversationsDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Donation.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Donation.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Donation.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Donation.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAxwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Conversation.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Conversation.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Conversation.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Conversation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeMonitoringDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeeMonitoringDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\EmployeeMonitoringDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeeMonitoringDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\EmployeeMonitoringDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeesDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\EmployeesDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\EmployeesDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\EmployeesDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectsDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\ProjectsDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\ProjectsDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\ProjectsDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\ProjectsDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Project.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Project.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\Project.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Project.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\City.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\City.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Telemarketing\\BLL\\City.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\City.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvx8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:23.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

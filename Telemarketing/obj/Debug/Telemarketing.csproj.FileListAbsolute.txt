@@ -1,0 +1,340 @@
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\winform\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.FrmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\telemarketing\פרויקט טלמרקטינג\Telemarketing\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\bin\Debug\Telemarketing.exe.config
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\bin\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\bin\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה\Telemarketing\obj\Debug\Telemarketing.Gui.frmCity.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Gui.frmCity.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\מעודכן\Telemarketing\obj\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\bin\Debug\Telemarketing.exe.config
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\bin\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\bin\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.csprojAssemblyReference.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\תהילה-הצגה\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\הכי חדש\תהילה-הכי חדש\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\bin\Debug\Telemarketing.exe.config
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\bin\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\bin\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csprojAssemblyReference.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי2\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי1\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\bin\Debug\Telemarketing.exe.config
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\bin\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\bin\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט טלמרקטינג\גיבוי\גיבוי3\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\תהילה\תיכנות\telemarketing project\גיבויים\גיבוי2\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe.config
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.pdb
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+T:\מדעי המחשב יב\הויזמן תהילה\פרויקט בתיכנות\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe.config
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.pdb
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+D:\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\__תיקיה חדשה\‏‏תיקיה חדשה\פרויקט בתיכנות\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט בתיכנות - מעודכן\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe.config
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\bin\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\bin\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Form1.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmChooseWorkers.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmCities.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmConversation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonations.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDonors.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployees.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmGetCalls.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmHome.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.FrmLogin.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmMoreInformation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonation.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneDonor.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmOneEmployee.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmProject.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmReturn.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmScedule.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Properties.Resources.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.GenerateResource.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmEmployeeMo.resources
+C:\Users\תהילה\OneDrive\שולחן העבודה\אקטואלי\פרויקט בתיכנות - מעודכן 0.1\פרויקט\Telemarketing\obj\Debug\Telemarketing.Gui.frmDetailOfWorkers.resources
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\obj\Debug\Telemarketing.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\obj\Debug\Telemarketing.exe
+C:\Users\PC\Downloads\פרויקט-20240410T235203Z-001\פרויקט\Telemarketing\obj\Debug\Telemarketing.pdb

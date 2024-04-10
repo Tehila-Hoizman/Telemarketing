@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|c:\\users\\pc\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410t235203z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmchooseworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmchooseworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmdonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmdonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|c:\\users\\pc\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410t235203z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmemployeemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmemployeemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|c:\\users\\pc\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410t235203z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\dal\\dala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\dal\\dala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\citiesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\citiesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\generaldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\generaldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmoneemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmoneemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmonedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmonedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmoneemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmoneemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmonedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmonedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmdonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmdonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmonedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmonedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmonedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmonedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\gui\\frmcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\gui\\frmcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\telemarketing\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BAE3A4-2AFD-47BC-B432-DBD8DD1FB1D0}|Telemarketing\\Telemarketing.csproj|solutionrelative:telemarketing\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChooseWorkers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmChooseWorkers.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmChooseWorkers.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmChooseWorkers.cs [Design]",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmChooseWorkers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:57:35.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEmployeeMo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmEmployeeMo.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmEmployeeMo.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmEmployeeMo.cs [Design]",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmEmployeeMo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:57:31.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\City.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\City.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\City.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DalA.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Dal\\DalA.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Dal\\DalA.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Dal\\DalA.cs",
+              "RelativeToolTip": "Telemarketing\\Dal\\DalA.cs",
+              "ViewState": "AQIAAD8AAAAATGZmZmYOwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmHome.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmHome.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmHome.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmHome.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmProject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmProject.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmProject.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmProject.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmProject.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwIYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmHome.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmHome.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmHome.cs [Design]",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDonors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmDonors.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmDonors.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmDonors.cs [Design]",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmDonors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitiesDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\CitiesDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\CitiesDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\CitiesDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\CitiesDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneralDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\GeneralDB.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\GeneralDB.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\GeneralDB.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\GeneralDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Project.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Project.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Project.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Donation.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Donation.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Donation.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Donation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmOneEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneEmployee.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneEmployee.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmOneDonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonation.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneDonation.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmOneEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneEmployee.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneEmployee.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneEmployee.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmOneEmployee.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAmwNQAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmProject.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmProject.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmProject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmOneDonation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonation.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneDonation.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonation.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmOneDonation.cs",
+              "ViewState": "AQIAAMQBAAAAAAAAAAAAwN0BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDonors.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmDonors.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmDonors.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmDonors.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmDonors.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAmwKEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmReturn.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmReturn.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmReturn.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmReturn.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmReturn.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAmwG8AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmOneDonor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonor.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneDonor.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonor.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmOneDonor.cs",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAAADMBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmOneDonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonor.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmOneDonor.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmOneDonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmReturn.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmReturn.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmReturn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCities.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmCities.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmCities.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmCities.cs",
+              "RelativeToolTip": "Telemarketing\\Gui\\frmCities.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Donor.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\BLL\\Donor.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\BLL\\Donor.cs",
+              "RelativeToolTip": "Telemarketing\\BLL\\Donor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:53:45.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCities.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8-20240410T235203Z-001\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmCities.cs",
+              "RelativeDocumentMoniker": "Telemarketing\\Gui\\frmCities.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmCities.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05EA\u05D4\u05D9\u05DC\u05D4\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D0\u05E7\u05D8\u05D5\u05D0\u05DC\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D1\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA - \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF 0.1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Telemarketing\\Gui\\frmCities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T23:53:45.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
